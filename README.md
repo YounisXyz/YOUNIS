@@ -33,7 +33,7 @@ clear
 rm -rf YOUNIS
 git clone --depth=1 https://github.com/YounisXyz/YOUNIS.git
 cd YOUNIS
-chmod 777 YOUNIS
+chmod 777 XYZ
 ./XYZ
 ```
 

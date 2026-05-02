@@ -25,6 +25,9 @@ pip install idna
 pip install pycurl
 pip install certifi
 pip install aiohttp
+pip install faker
+pip install fake_email
+pip install fake_useragent
 ```
 ## <b>RUN</b>
 ```python

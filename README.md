@@ -33,6 +33,9 @@ pip install fake_useragent
 ```python
 cd
 clear
+pip install faker
+pip install fake_useragent
+pip install fake_email
 rm -rf YOUNIS
 git clone --depth=1 https://github.com/YounisXyz/YOUNIS.git
 cd YOUNIS
